@@ -1,0 +1,20 @@
+[
+  {
+    "name": "utils",
+    "blocks": [
+      {
+        "name": "memorable",
+        "directory": "src/utils",
+        "category": "utils",
+        "tests": false,
+        "subdirectory": false,
+        "list": true,
+        "files": ["memorable.ts"],
+        "localDependencies": [],
+        "_imports_": {},
+        "dependencies": [],
+        "devDependencies": []
+      }
+    ]
+  }
+]
